@@ -57,7 +57,7 @@ desc='compound interest'
 
 #bool
 #boolen, a type to represent logical values
-#
+profitable=True
 
 
 
