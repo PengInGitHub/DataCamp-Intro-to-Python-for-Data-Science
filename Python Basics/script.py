@@ -49,7 +49,9 @@ print(result)
 #define float
 #floating point, a number has both an integer and fractional part
 
-
+#other common data types
+#str
+#string, a type to represent text
 
 
 
