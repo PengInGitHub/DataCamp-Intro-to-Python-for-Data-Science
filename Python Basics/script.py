@@ -44,6 +44,9 @@ factor=1.1
 result=savings*(factor**7)
 print(result)
 
+#define int
+#integer, a number without frational part
+
 
 
 
