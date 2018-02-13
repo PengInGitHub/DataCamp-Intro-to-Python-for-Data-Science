@@ -52,6 +52,13 @@ print(result)
 #other common data types
 #str
 #string, a type to represent text
+#compound interest
+desc='compound interest'
+
+#bool
+#boolen, a type to represent logical values
+#
+
 
 
 
