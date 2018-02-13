@@ -5,3 +5,7 @@
 var1 = [1, 2, 3, 4]
 var2 = True
 print(type(var1))#list
+
+
+#help function
+#how to use a function
