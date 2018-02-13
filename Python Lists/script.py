@@ -24,3 +24,38 @@ house=[['hallway',hall],
              ['bedroom',bed],
              ['bathroom',bath]]
 print(house)
+
+
+#subset and conquer
+#subsetting: indexing 
+x = ["a", "b", "c", "d"]
+print(x[3])
+print(x[-2])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
