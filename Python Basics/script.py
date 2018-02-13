@@ -64,6 +64,19 @@ print(type(profitable))
 
 
 
+#Operations with different types
+year1=savings*factor
+print(type(year1))
+
+#sum of two strings
+dou_desc=desc+desc
+print(dou_desc)
+
+
+#Convert Types of Variables
+#convert python values into any type
+#str() --- convert a value into string
+#similar: int(), bool(), float()
 
 
 
