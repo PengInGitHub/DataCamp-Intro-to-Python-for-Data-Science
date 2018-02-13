@@ -78,6 +78,8 @@ print(dou_desc)
 #str() --- convert a value into string
 #similar: int(), bool(), float()
 
+#example of type convert
+print("I started with $"  + str(savings) + ". Now I have $" + str(result))
 
 
 
