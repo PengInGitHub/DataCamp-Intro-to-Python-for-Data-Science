@@ -10,4 +10,6 @@ print(type(var1))#list
 #help function
 #how to use a function
 #syntax: help(max) ,or ?max()
-help(max) # With a single iterable argument, return its biggest item
+#help(max)
+#With a single iterable argument, return its biggest item
+help(complex)#Create a complex number from a real part and an optional imaginary part
