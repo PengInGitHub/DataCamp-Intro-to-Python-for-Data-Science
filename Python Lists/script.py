@@ -14,4 +14,13 @@ areas=[hall,kit,liv,bed,bath]
 #a list can also contain a mix of Python types
 # Adapt list areas
 areas = ["hallway",hall, "kitchen",kit, "living room", liv,"bedroom", bed, "bathroom", bath]
-print(areas)
+
+
+#a list can also contain a list
+#create a list of lists
+house=[['hallway',hall],
+             ['kitchen',kit],
+             ['living room',liv],
+             ['bedroom',bed],
+             ['bathroom',bath]]
+print(house)
