@@ -9,4 +9,9 @@ bed = 10.75
 bath = 9.50
 #create a list areas
 areas=[hall,kit,liv,bed,bath]
+
+#create list with different types
+#a list can also contain a mix of Python types
+# Adapt list areas
+areas = ["hallway",hall, "kitchen",kit, "living room", liv,"bedroom", bed, "bathroom", bath]
 print(areas)
