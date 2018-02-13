@@ -52,6 +52,15 @@ print(x[:2])
 print(x[3:])
 
 
+#Subsetting lists of lists
+x = [["a", "b", "c"],
+     ["d", "e", "f"],
+     ["g", "h", "i"]]
+
+print(x[2][0])
+print(x[1][:2])
+print(house[-1][1])
+
 
 
 
