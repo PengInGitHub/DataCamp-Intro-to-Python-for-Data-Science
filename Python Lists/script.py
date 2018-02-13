@@ -84,8 +84,12 @@ areas_1=areas+["garage",20,"poolhouse",24.3]
 
 #Delete list elements
 #remove elements from list
-del(x[3],areas_1[5:])
+del(x[3],areas_1[-2:])#delete the last two elements
+
 print(x,areas_1)
+
+
+#Inner workings of list
 
 
 
