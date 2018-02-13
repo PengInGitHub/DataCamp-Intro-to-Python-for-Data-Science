@@ -95,11 +95,13 @@ print(x,areas_1)
 areas = [11.25, 18.0, 20.0, 10.75, 9.50]
 
 #create areas_copy
-areas_copy=areas[:]
-areas_copy=list(areas)
+#areas_copy=areas[:]
+#areas_copy=list(areas)
+areas_copy=areas
 
 #modify created list
 areas_copy[0]=5
+print(areas)
 
 
 
