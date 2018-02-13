@@ -59,6 +59,40 @@ desc='compound interest'
 #boolen, a type to represent logical values
 profitable=True
 
+#type
+print(type(profitable))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
