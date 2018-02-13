@@ -80,10 +80,12 @@ print(y)
 areas = ["hallway", 11.25, "kitchen", 18.0, "chill zone", 20.0, 
          "bedroom", 10.75, "bathroom", 10.50]
 areas_1=areas+["garage",20,"poolhouse",24.3]
-print(areas_1)
 
 
-
+#Delete list elements
+#remove elements from list
+del(x[3],areas_1[5:])
+print(x,areas_1)
 
 
 
