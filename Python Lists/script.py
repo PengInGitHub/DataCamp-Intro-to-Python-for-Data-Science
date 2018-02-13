@@ -62,7 +62,14 @@ print(x[1][:2])
 print(house[-1][1])
 
 
+#List Manipulation
 
+#Replace list elements -- subset the list and assign new values to the subset
+x[0][1]='z'
+x[0][0:]=['z','p','k']
+#correct a value in list
+areas[-1]=10.5
+print(areas)
 
 
 
