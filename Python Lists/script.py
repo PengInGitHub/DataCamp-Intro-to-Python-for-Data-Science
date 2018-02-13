@@ -71,6 +71,12 @@ x[0][0:]=['z','p','k']
 areas[-1]=10.5
 print(areas)
 
+#Extend a list
+#add elements to list
+x = ["a", "b", "c", "d"]
+y=x+["x","y"]
+print(y)
+
 
 
 
