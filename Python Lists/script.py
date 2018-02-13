@@ -43,6 +43,8 @@ print(downstairs)
 upstairs=areas[6:10]
 print(upstairs)
 
+#syntax of slice
+#my_list[begin:end]
 
 
 
