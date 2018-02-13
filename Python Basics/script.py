@@ -21,3 +21,6 @@ print(3/5)
 
 #exponentiation
 print(4**2)
+
+#modulo
+print(4%3)
