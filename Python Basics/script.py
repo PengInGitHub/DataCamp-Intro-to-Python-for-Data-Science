@@ -46,6 +46,8 @@ print(result)
 
 #define int
 #integer, a number without frational part
+#define float
+#floating point, a number has both an integer and fractional part
 
 
 
