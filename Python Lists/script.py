@@ -47,6 +47,9 @@ print(upstairs)
 #my_list[begin:end]
 
 
+#slicing without specific index of [begin:end]
+print(x[:2])
+print(x[3:])
 
 
 
