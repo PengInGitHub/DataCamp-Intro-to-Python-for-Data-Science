@@ -24,3 +24,7 @@ print(4**2)
 
 #modulo
 print(4%3)
+
+# How much is your $100 worth after 7 years?
+print(100*(1.1**7))
+
